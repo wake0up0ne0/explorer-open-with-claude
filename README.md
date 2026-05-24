@@ -5,6 +5,8 @@ empty background of a folder. Selecting it opens a terminal in that folder and
 starts Claude Code (the CLI) there, so you can drop into Claude in any directory
 without typing a path.
 
+![Open Claude here in the Explorer context menu](menu.png)
+
 ## Install
 
 The entry lives in HKLM, so import as administrator:
