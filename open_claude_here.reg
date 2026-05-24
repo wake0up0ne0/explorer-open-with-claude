@@ -2,6 +2,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\Software\Classes\Directory\Background\shell\Claude]
 @="Open Claude here"
+"Icon"="C:\\Users\\user\\.local\\bin\\claude.ico"
 
 [HKEY_LOCAL_MACHINE\Software\Classes\Directory\Background\shell\Claude\command]
 @="cmd.exe /s /k \"cd /d \"%V\" && \"C:\\Users\\user\\.local\\bin\\claude.exe\"\""
